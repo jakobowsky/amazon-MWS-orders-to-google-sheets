@@ -160,7 +160,7 @@ class AmazonScript:
         last_date = self.google_sheets.get_last_date()
         print("Last Date: ", last_date)
 
-        print("Getting NA orders...")
+        print("Getting orders...")
         orders = self.na_mws_orders.get_orders(last_date)
 
         parsed_orders = self.parse_orders(orders)
