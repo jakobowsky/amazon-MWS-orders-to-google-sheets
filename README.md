@@ -2,6 +2,8 @@
 # Amazon MWS Order API to Google Sheets #
 With the world taking a frog leap into the eCommerce world, more and more people start selling their products on Amazon. However, once you start hitting the mass scale and you have orders coming every minute, it can be hard to get a grasp of all the data. The basic Amazon dashboards are limited, and you will soon find yourself using proprietary tools charging hefty monthly subscriptions. In this video, I will show you how easy it is to integrate Amazon MWS API with Google Sheets and collect data of your orders daily. We will use the Python programming language with some 3rd party libraries.
 
+## Watch full tutorial here
+https://youtu.be/cV_sRu9A23A
 
 ## Create .env and get client_secret.json from GCP
 .env example
